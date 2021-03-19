@@ -1,0 +1,7 @@
+[connection]
+request_timeout=3600
+client_timeout = 3600
+
+[copy-to]
+pagesize = 1000
+pagetimeout = 10
